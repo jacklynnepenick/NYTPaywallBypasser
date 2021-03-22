@@ -2,7 +2,7 @@
 
 ## How to use
 
-To use user scripts you need to first install a user script manager. Here are managers for various browsers:
+To use user scripts you need to first install a user script manager. I recommend [Tampermonkey](https://tampermonkey.net/), as that's what I've tested it in and it works in most browsers.  Here are some other managers:
 
 - [Greasemonkey](http://www.greasespot.net/) - Firefox
   - Supports GM 4 userscripts.
